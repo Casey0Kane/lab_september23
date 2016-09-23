@@ -97,7 +97,7 @@ function sumArray(testArray){ //eslint-disable-line
   return output;
 }
 
-// Here is the test for sumArray(); uncomment it to run it
+// Here is the test for sumArray(); uncomment it to run it//
 
 testSumArray(testArray);
 
